@@ -1,0 +1,8 @@
+C:\Users\David\source\repos\DependendencyInjectionContainer\NormalWinnerGenerator\bin\Debug\NormalWinnerGenerator.dll
+C:\Users\David\source\repos\DependendencyInjectionContainer\NormalWinnerGenerator\bin\Debug\NormalWinnerGenerator.pdb
+C:\Users\David\source\repos\DependendencyInjectionContainer\NormalWinnerGenerator\bin\Debug\LotteryWinnerGenerator.Interfaces.dll
+C:\Users\David\source\repos\DependendencyInjectionContainer\NormalWinnerGenerator\bin\Debug\LotteryWinnerGenerator.Interfaces.pdb
+C:\Users\David\source\repos\DependendencyInjectionContainer\NormalWinnerGenerator\obj\Debug\NormalWinnerGenerator.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\DependendencyInjectionContainer\NormalWinnerGenerator\obj\Debug\NormalWinnerGenerator.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\DependendencyInjectionContainer\NormalWinnerGenerator\obj\Debug\NormalWinnerGenerator.dll
+C:\Users\David\source\repos\DependendencyInjectionContainer\NormalWinnerGenerator\obj\Debug\NormalWinnerGenerator.pdb

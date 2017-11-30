@@ -1,0 +1,5 @@
+C:\Users\David\source\repos\DependendencyInjectionContainer\LotteryWinnerGenerator.Interfaces\bin\Debug\LotteryWinnerGenerator.Interfaces.dll
+C:\Users\David\source\repos\DependendencyInjectionContainer\LotteryWinnerGenerator.Interfaces\bin\Debug\LotteryWinnerGenerator.Interfaces.pdb
+C:\Users\David\source\repos\DependendencyInjectionContainer\LotteryWinnerGenerator.Interfaces\obj\Debug\LotteryWinnerGenerator.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\DependendencyInjectionContainer\LotteryWinnerGenerator.Interfaces\obj\Debug\LotteryWinnerGenerator.Interfaces.dll
+C:\Users\David\source\repos\DependendencyInjectionContainer\LotteryWinnerGenerator.Interfaces\obj\Debug\LotteryWinnerGenerator.Interfaces.pdb
